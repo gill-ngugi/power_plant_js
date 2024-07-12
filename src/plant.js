@@ -1,5 +1,3 @@
-// src/plant.js
-
 function createPlant(name) {
     let state = {
       name,
